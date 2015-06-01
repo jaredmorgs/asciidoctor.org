@@ -52,11 +52,11 @@ See the {java}[Asciidoctor Java integration project] for more information.
 
 include::{includedir}/install-upgrade-asciidoctor.adoc[tags=bundler]
 
-=== Install with +yum+
+=== Install on RPM-based Systems
  
 include::{includedir}/install-upgrade-asciidoctor.adoc[tags=yum]
 
-=== Install with +apt-get+
+=== Install on Debian-based Systems
  
 include::{includedir}/install-upgrade-asciidoctor.adoc[tags=aptget]
 
